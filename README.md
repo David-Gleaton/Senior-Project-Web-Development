@@ -1,0 +1,2 @@
+# Senior-Project-Web-Development
+This was a major project that allowed 3 types of users (Admin, Sponsors, and Drivers), to interact with a catalogue taken from Etsy using their API in order to allow Sponsors to award Drivers points, and in turn allow those Drivers to purchase items in the Sponsor's catalogue based on their point total. The database this website was run on may expire soon, this is just the code. We used Flask Decoration system.
