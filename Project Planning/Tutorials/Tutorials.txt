@@ -1,0 +1,5 @@
+https://www.w3schools.com/html -- Good HTML Tutorial
+https://www.w3schools.com/css -- Good CSS Tutorial
+https://www.w3schools.com/python -- Good for python and some python mysql help
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world -- Flask help
+https://www.youtube.com/watch?v=Z1RJmh_OqeA -- A good flask introduction vid

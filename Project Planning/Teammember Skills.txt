@@ -1,0 +1,35 @@
+﻿Team Member Skills
+
+
+Chris Gaber
+* HTML (proficient), CSS (proficient), JS (little), Flask (learning)
+* C (proficient), C++ (proficient), Java, Python (basic stuff)
+* Database Stuff (next to nothing)
+
+
+Evan Hastings
+*  Python (proficient), Flask (intermediate)
+* HTML (intermediate), CSS (novice), JS (intermediate)
+* C (intermediate), C++ (proficient)
+* System Administration (knowledgeable)
+* Database design (learning)
+
+
+Hamlin Gleaton
+* C (proficient)
+* C++ (proficient)
+* Java (proficient)
+* Python (in process of learning)
+* CSS (see Python)
+* Database theory (but not practice)
+* Bash Scripting (intermediate)
+* mySQL (learning)
+* HTML (novice)
+* System Administration (intermediate)
+
+
+Will Sherrer
+* HTML(in process of learning) CSS (in process of learning)
+* mySQL (Strong)
+* C, C++, Java (proficient)
+* Python(learning quickly), Flask(learning)
